@@ -41,6 +41,4 @@ and transactions.market_code="Mark001";`
 
 ## Case Study Visuals
 The visualizations created for the case study can be accessed through the following Tableau Public link:
-
-[Case Study Visuals]
-(https://public.tableau.com/app/profile/shubham200137/viz/SalesInsights2_16767990955020/SalesDashboard)
+[Case Study Visuals](https://public.tableau.com/app/profile/shubham200137/viz/SalesInsights2_16767990955020/SalesDashboard)
